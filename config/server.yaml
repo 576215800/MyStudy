@@ -1,0 +1,15 @@
+Username: denghao
+Password: 123
+DB:
+    Host: 127.0.0.1
+    Port: 3306
+    DBType: mysql
+    User: root
+    Password: root
+companies:
+  - id: 1
+    name: company1
+    price: 200w
+  - id: 2
+    name: company2
+    price: 300w
